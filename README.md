@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Identificador de Placas
 
 Projeto de hobby para exercício de uso de alguns conhecimentos:
@@ -18,3 +19,7 @@ Identificar a placa de um veículo na imagem e obter os dados do cliente se poss
 Ao ser selecionada a imagem será exibida na tela;
 Após processamento os dados da placa (letras e números) serão apresentados
 Caso exista algum cliente associado a essa placa, seu nome será exibido
+=======
+# projetos-realizados
+Postar os conceitos dos projetos já realizados
+>>>>>>> 162550f7665f81e395a26ffed2abd86e319570a8
