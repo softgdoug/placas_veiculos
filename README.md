@@ -1,19 +1,19 @@
 # Identificador de Placas
 
-Projeto de hobby para exercício de uso de alguns conhecimentos:
+    Projeto de hobby para exercício de uso de alguns conhecimentos:
 
-- codificação em python e streamlit para interfaceamento rápido
-- uso de N8N como back para API e integração com IA Gen e exercício de infra estrutura
+    - codificação em python e streamlit para interfaceamento rápido
+    - uso de N8N como back para API e integração com IA Gen e exercício de infra estrutura
   
 ## Objetivo
 
-Identificar a placa de um veículo na imagem e obter os dados do cliente se possuir vinculo com a placa identificada;
+    Identificar a placa de um veículo na imagem e obter os dados do cliente se possuir vinculo com a placa identificada;
 
 ## Operação
 
-- Acessar o sistema
-- selecionar uma imagem que contenha placa de algum veículo
-- clicar em processar
+    - Acessar o sistema
+    - selecionar uma imagem que contenha placa de algum veículo
+    - clicar em processar
 
     Ao ser selecionada a imagem será exibida na tela;
     Após processamento os dados da placa (letras e números) serão apresentados
