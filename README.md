@@ -18,3 +18,7 @@
     Ao ser selecionada a imagem será exibida na tela;
     Após processamento os dados da placa (letras e números) serão apresentados
     Caso exista algum cliente associado a essa placa, seu nome será exibido
+
+## Execução
+
+[app](http://dogmaker.cloud:8501)
